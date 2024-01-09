@@ -74,7 +74,7 @@ The `ClientOnly` component is registered globally when the app is created.
 
 ## Document head
 
-We ship [`@unhead/vue`](https://unhead.harlanzw.com/integrations/vue/setup) to manage the document-head out of the box. You can use it directly in your pages/components.
+We ship [`@unhead/vue`](https://unhead.unjs.io/setup/vue/installation) to manage the document-head out of the box. You can use it directly in your pages/components.
 For example:
 
 ```html
